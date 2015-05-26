@@ -7,11 +7,11 @@ public class HelloGit {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ol· Mundo!!!");
+		System.out.println("Ol√° Mundo!!!");
 		
 		System.out.println("Boa noite!!!");
 		
-		System.out.println("Preparando um push");
+		
 	}
 
 }
